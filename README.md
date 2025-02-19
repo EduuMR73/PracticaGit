@@ -1,2 +1,2 @@
 # Explicación
-Aquí pondremos la documentación de la práctica
+Aquí pondremos la documentación de la prácticaa libro-git
